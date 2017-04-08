@@ -1,0 +1,19 @@
+# Idea file
+.idea/
+
+# Class files
+bin/
+
+# Output the prog generates
+data/output.txt/
+
+# Package Files
+  *.jar
+
+# HomeworkTemplate
+ *.iml
+
+
+
+
+
